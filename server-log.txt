@@ -1,0 +1,16 @@
+[2024-09-22 11:36:52] Servidor iniciado
+[2024-09-22 11:37:04] Cliente conectado: a - /127.0.0.1
+[2024-09-22 11:37:07] Cliente conectado: b - /127.0.0.1
+[2024-09-22 11:43:23] Servidor iniciado
+[2024-09-22 11:43:32] Cliente conectado: a - /127.0.0.1
+[2024-09-22 11:43:36] Cliente conectado: b - /127.0.0.1
+[2024-09-22 11:43:56] User: a tentou enviar um comando ilegal: /b users
+[2024-09-22 11:44:57] Cliente conectado: b - /127.0.0.1
+[2024-09-22 11:47:18] Servidor iniciado
+[2024-09-22 11:47:27] Cliente conectado: b - /127.0.0.1
+[2024-09-22 11:47:28] Cliente conectado: a - /127.0.0.1
+[2024-09-22 20:51:56] Servidor iniciado
+[2024-09-22 20:52:16] Cliente conectado: vitoria - /127.0.0.1
+[2024-09-22 20:52:32] Cliente conectado: luciano - /127.0.0.1
+[2024-09-22 20:52:47] Usuário luciano tentou enviar um comando ilegal: /send
+[2024-09-22 20:53:42] Usuário vitoria tentou enviar um comando ilegal: 
